@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T18:55:28.558Z" agent="5.0 (Macintosh)" etag="9XxtQ7T9EIVbJx5kUNcW" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-16T18:58:43.484Z" agent="5.0 (Macintosh)" etag="AMVXsEVIl4EvkQ1aLewq" version="14.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3186" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,12 +84,12 @@
         </mxCell>
         <mxCell id="jOKS-pddIqo-Pm2sYot_-58" value="belongsTo 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jOKS-pddIqo-Pm2sYot_-57">
           <mxGeometry x="0.791" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-45" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jOKS-pddIqo-Pm2sYot_-59" value="sent_received 0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jOKS-pddIqo-Pm2sYot_-57">
           <mxGeometry x="-0.788" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="58" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jOKS-pddIqo-Pm2sYot_-23" value="Message" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
